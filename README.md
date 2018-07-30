@@ -15,7 +15,7 @@ Sometimes as a Technical Coach, you will encounter questions that are beyond you
 
 Occasionally someone asks non-technical questions such as "How long does this course take to complete?", "Do you offer scholarships?", "Can you explain the job guarantee to me?", etc. If you feel like you know the answer, please **do not try and answer these questions**. Simply let the student know that this is a great question for our admissions team and that you're going to close this chat question and forward the question to them. Once you get confirmation from the student that this is OK, hit the `Assign to Enrollments` button. Referring the questions to admissions will automatically resolve the question.
 
-![admissions](https://github.com/learn-co-curriculum/technical-coach-escalating-an-issue/blob/master/images/assign_to_enrollments.png?raw=true)
+![admissions](https://github.com/learn-co-curriculum/technical-coach-escalating-an-issue/blob/master/assign_to_enrollments.png?raw=true)
 
 ### Personal Escalation - Through Slack
 
