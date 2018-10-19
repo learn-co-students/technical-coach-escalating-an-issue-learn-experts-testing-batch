@@ -19,7 +19,7 @@ Occasionally someone asks non-technical questions such as "How long does this co
 
 ### Personal Escalation - Through Slack
 
-Students get a little frustrated all the time, but if a student seems to be really disheartened, or if they mention even in passing that they might (quit | leave | stop) the course, immediately send a DM to the Technical Coach Manager in the Flatiron Staff Slack channel. Paste the message that concerned you and a link to the question so we can easily get in touch and review. **This is very important.**
+Students get a little frustrated all the time, but if a student seems to be really disheartened, or if they mention even in passing that they might (quit | leave | stop) the course, immediately send a DM to the Faculty Manager in the Flatiron Staff Slack channel. Paste the message that concerned you and a link to the question so we can easily get in touch and review. **This is very important.**
 
 If in doubt, send too many of these. If necessary, we'll refine the instructions but we'd rather get too many false positives than fail to help a student who's having a hard time.
 
