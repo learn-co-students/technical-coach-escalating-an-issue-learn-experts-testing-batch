@@ -2,7 +2,7 @@
 
 ![escalation](http://i.giphy.com/ToMjGpjpXMFPshSYGLm.gif)
 
-Sometimes as a Technical Coach, you will encounter questions that are beyond your scope to answer. In these cases, you'll need to escalate the issue.
+Sometimes as a Technical Coach, you will encounter questions that are beyond your scope to answer. In these cases, you'll need to escalate the issue to the appropriate department at Flatiron.
 
 ## What kinds of issues should be reported?
 
@@ -13,7 +13,9 @@ Sometimes as a Technical Coach, you will encounter questions that are beyond you
   - What courses do you offer?
   - Do you offer scholarships?
 
-Occasionally someone asks non-technical questions such as "How long does this course take to complete?", "Do you offer scholarships?", "Can you explain the job guarantee to me?", etc. If you feel like you know the answer, please **do not try and answer these questions**. Simply let the student know that this is a great question for our admissions team and that you're going to close this chat question and forward the question to them. Once you get confirmation from the student that this is OK, hit the `Assign to Enrollments` button. Referring the questions to admissions will automatically resolve the question.
+Occasionally someone asks non-technical questions such as "How long does this course take to complete?", "Do you offer scholarships?", "Can you explain the job guarantee to me?", etc. If you feel like you know the answer, please **do not try and answer these questions**. Simply let the student know that this is a great question for our admissions team and that you're going to close this chat question and forward the question to them. Referring the questions to admissions will automatically resolve the question, so **it is imperative that you let the student know that the referral will resolve their question**.
+
+Before resolving the question, you should also tell students that can contact admissions directly at `admissions@flatironschool.com`. Students may not be contacted by admissions immediately, so it is a good idea to give them a course of action to follow up - otherwise, they're likely to come to AAQ again! Once you get confirmation from the student that it is okay to refer them to admissions and resolve their question, hit the `Assign to Enrollments` button.  
 
 ![admissions](https://github.com/learn-co-curriculum/technical-coach-escalating-an-issue/blob/master/assign_to_enrollments.png?raw=true)
 
@@ -25,11 +27,11 @@ If in doubt, send too many of these. If necessary, we'll refine the instructions
 
 ### Struggling Student - Through Admin Profile and/or Slack
 
-If a paying student is struggling with the curriculum, we want to get them the appropriate help as soon as possible. At this point, you may have already tried to explain a concept to them, and/or documented it on their admin profile. If not, check their admin profile and see if there are other comments. If it seems there is a pattern developing based on the notes in their admin profile (eg there are several other notes by other TCs / staff members about the student struggling with concepts), **please email or Slack the Technical Coach manager immediately** about the student so we can get them help from the appropriate Section Lead. 
+If a paying student is struggling with the curriculum, we want to get them the appropriate help as soon as possible. At this point, you may have already tried to explain a concept to them, and/or documented it on their admin profile. If not, check their admin profile and see if there are other comments. If it seems there is a pattern developing based on the notes in their admin profile (eg there are several other notes by other TCs / staff members about the student struggling with concepts), **please email or Slack the Technical Coach manager immediately** about the student so we can get them help from the appropriate Section Lead.
 
 ### All other issues - Through Jira
 
-In other cases, technical issues need to be escalated to our development team. The table below briefly outlines the types of issues that should be escalated: 
+In other cases, technical issues need to be escalated to our development team. The table below briefly outlines the types of issues that should be escalated:
 
 | Issue | Description |
 | --- | --- |
