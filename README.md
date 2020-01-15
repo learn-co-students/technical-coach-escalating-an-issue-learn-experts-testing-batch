@@ -31,7 +31,7 @@ When using the escalation form and writing notes on a student's admin profile, i
 
 Here is an example:
 
-`This student started a question due to the IDE constantly reconnecting during the Sinatra Playlister lab. He spoke with [TC name] first, who submitted a ticket for him, then [second TC] who screenshared with him to get him going on WSL. This resulted in some issues with the bundler gem.
+```This student started a question due to the IDE constantly reconnecting during the Sinatra Playlister lab. He spoke with [TC name] first, who submitted a ticket for him, then [second TC] who screenshared with him to get him going on WSL. This resulted in some issues with the bundler gem.
 
 Almost every step of the way there was some sarcastic remark. I said at this point let's try it in shotgun, so we did, but then it didn’t work and I suggested a change to check in the browser again. Got a response like “woooo nothing's gonna change let's check shotgun...” and just various forms of that the whole time.
 
@@ -39,7 +39,7 @@ He brought up the course several times like “I just don’t know about this co
 
 At the very end, he did thank me for spending so much time debugging with him. He didn’t cuss or say anything inappropriate directly to me, but it was a super uncomfortable tone the entire time.
 
-We see that there is a description of the student's overall demeanor and why he might be frustrated, the steps that were taken to address the issue, and specific details and quotes from the student to help illustrate the student's feelings and behavior. `
+We see that there is a description of the student's overall demeanor and why he might be frustrated, the steps that were taken to address the issue, and specific details and quotes from the student to help illustrate the student's feelings and behavior. ```
 
 ### Struggling Student - Through Form and Admin Profile
 
