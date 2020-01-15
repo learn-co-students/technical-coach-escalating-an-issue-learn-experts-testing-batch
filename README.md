@@ -19,15 +19,17 @@ Before resolving the question, you should also tell students that can contact ad
 
 ![admissions](https://github.com/learn-co-curriculum/technical-coach-escalating-an-issue/blob/master/assign_to_enrollments.png?raw=true)
 
-### Personal Escalation - Through Slack
+### Personal/Behavioral Escalation - Through Escalation Form, Slack, and Admin Profile
 
-Students get a little frustrated all the time, but if a student seems to be really disheartened, or if they mention even in passing that they might (quit | leave | stop) the course, immediately send a DM to the Faculty Manager in the Flatiron Staff Slack channel. Paste the message that concerned you and a link to the question so we can easily get in touch and review. **This is very important.**
+Students get a little frustrated all the time - learning to do something new is challenging! If a student is very frustrated or disheartened, or is otherwise not interacting with TCs and other students in a healthy way, that student needs to be escalated.  We use a google form to escalate students to members of the full time team. For extreme or urgent cases, you should also send a DM to Erika in the Flatiron Staff channel. Paste the message that concerned you and a link to the question so we can easily get in touch and review. It's also a good idea to leave a note on the student's admin profile - writing notes can help document a pattern of behavior and keep TCs and other staff in the loop.
 
 If in doubt, send too many of these. If necessary, we'll refine the instructions but we'd rather get too many false positives than fail to help a student who's having a hard time.
 
-### Struggling Student - Through Admin Profile and/or Slack
+### Struggling Student - Through Form and Admin Profile
 
 If a paying student is struggling with the curriculum, we want to get them the appropriate help as soon as possible. At this point, you may have already tried to explain a concept to them, and/or documented it on their admin profile. If not, check their admin profile and see if there are other comments. If it seems there is a pattern developing based on the notes in their admin profile (eg there are several other notes by other TCs / staff members about the student struggling with concepts), **please email or Slack the Technical Coach manager immediately** about the student so we can get them help from the appropriate Section Lead.
+
+### Abuse of AAQ or Lack of Trying -
 
 ### All other issues - Through Jira
 
