@@ -21,9 +21,25 @@ Before resolving the question, you should also tell students that can contact ad
 
 ### Personal/Behavioral Escalation - Through Escalation Form, Slack, and Admin Profile
 
-Students get a little frustrated all the time - learning to do something new is challenging! If a student is very frustrated or disheartened, or is otherwise not interacting with TCs and other students in a healthy way, that student needs to be escalated.  We use a google form to escalate students to members of the full time team. For extreme or urgent cases, you should also send a DM to Erika in the Flatiron Staff channel. Paste the message that concerned you and a link to the question so we can easily get in touch and review. It's also a good idea to leave a note on the student's admin profile - writing notes can help document a pattern of behavior and keep TCs and other staff in the loop.
+Students get a little frustrated all the time - learning to do something new is challenging! If a student is very frustrated or disheartened, or is otherwise not interacting with TCs or other students in a healthy way, that student needs to be escalated.  
 
-If in doubt, send too many of these. If necessary, we'll refine the instructions but we'd rather get too many false positives than fail to help a student who's having a hard time.
+We use a google form to escalate students to members of the full time team. For extreme or urgent cases, you should also send a DM to Erika in the Flatiron Staff channel. Paste the message that concerned you and a link to the question so we can easily get in touch and review. It's also a good idea to leave a note on the student's admin profile - writing notes can help document a pattern of behavior and keep TCs and other staff in the loop.
+
+If in doubt, err on the side of escalating a student, rather than potentially letting the issue continue, unaddressed. If necessary, we'll refine the instructions, but we'd rather get too many false positives than fail to help a student who's having a hard time.
+
+When using the escalation form and writing notes on a student's admin profile, it is important that you are objective, detailed, and specific in your explanation of what occurred. A nice general rule of thumb is to describe what happened, give specific details (quote the student if at all possible!), and elaborate on why the interaction concerned you.
+
+Here is an example:
+
+`This student started a question due to the IDE constantly reconnecting during the Sinatra Playlister lab. He spoke with [TC name] first, who submitted a ticket for him, then [second TC] who screenshared with him to get him going on WSL. This resulted in some issues with the bundler gem.
+
+Almost every step of the way there was some sarcastic remark. I said at this point let's try it in shotgun, so we did, but then it didn’t work and I suggested a change to check in the browser again. Got a response like “woooo nothing's gonna change let's check shotgun...” and just various forms of that the whole time.
+
+He brought up the course several times like “I just don’t know about this course... I spent hours on this, I don’t want to spend time fixing every single lab” - stuff along those lines. Didn’t necessarily threaten to quit but is clearly unhappy with the course right now.
+
+At the very end, he did thank me for spending so much time debugging with him. He didn’t cuss or say anything inappropriate directly to me, but it was a super uncomfortable tone the entire time.
+
+We see that there is a description of the student's overall demeanor and why he might be frustrated, the steps that were taken to address the issue, and specific details and quotes from the student to help illustrate the student's feelings and behavior. `
 
 ### Struggling Student - Through Form and Admin Profile
 
