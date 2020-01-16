@@ -54,23 +54,21 @@ AAQ exists to help students learn to debug effectively as they work their way th
 - Opening a new question within a few minutes of resolving the previous question
 - Being unwilling to troubleshoot, try things independently, or identify possible strategies for moving forward (e.g. a student frequently responds with "I don't know", or "what is wrong with this code") or something similar.
 
-A good general rule of thumb is to tell students to work independently for 20-30 minutes before opening a new question. However, if you find that students are overly reliant on AAQ or resistant to the teaching strategies we use, you should escalate that student via the escalation form so that their expectations of the program, and of AAQ, can be reset. It's also a good idea to leave a note on the student's admin profile so that other TCs know how to approach the student. 
+A good general rule of thumb is to tell students to work independently for 20-30 minutes before opening a new question. However, if you find that a student is overly reliant on AAQ or resistant to the teaching strategies we use, you should escalate that student via the escalation form so that their expectations of the program, and of AAQ, can be reset. It's also a good idea to leave a note on the student's admin profile so that other TCs know how to approach the student.
 
 ### All other issues - Through Jira
 
-In other cases, technical issues need to be escalated to our development team. The table below briefly outlines the types of issues that should be escalated:
+In other cases, technical issues need to be escalated to our development team. In the next section, we'll cover how to correctly escalate an issue by submitting a ticket on Jira. The table below briefly outlines the types of issues that should be escalated:
 
 | Issue | Description |
 | --- | --- |
 | IDE |  Any issues related to the Learn IDE. For example, the user is getting an error when installing the IDE, or the IDE won't load |
-| Chat |  Issues related to Ask A Question, DM, or Lobby features in Learn, eg chat is totally empty, notifications not showing up for chat|
+| Chat |  Issues related to Ask A Question, DM, or Lobby features in Learn, e.g. chat is totally empty, or notifications not showing up for chat|
 | UI |  Buttons not working, problems with the site, pages 500ing |
 | Account | Billing, feature access, Github name change |
 | Lights | Lights not flipping |
-| Project | Issues related to an assessment / portfolio project |
+| Project | Issues related to an assessment / portfolio project (this would likely need to be submitted by a member of the full-time team, as technical coaches do not resolve issues related to assessments) |
 | VirtualBox | Issues related to installing or using VirtualBox |
-| Learn Gem | Eg User is getting non test errors when running tests or submitting lessons |
-| Github |  Eg Github account not connecting to Learn.co |
-| Blog | Student's Learn.co blog related issues - can't save blog posts, switching blog type, etc.
-
-In the next section, we'll cover how to correctly escalate an issue by submitting a ticket on Jira.
+| Learn Gem | e.g. User is getting non-test errors when running tests or submitting lessons |
+| Github |  e.g. Github account not connecting to Learn.co |
+| Blog | Student's Learn.co blog-related issues - can't save blog posts, issues switching blog type, etc.
