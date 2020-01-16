@@ -41,11 +41,20 @@ Here is an example:
 
 We see that there is a description of the student's overall demeanor and why he might be frustrated, the steps that were taken to address the issue, and specific details and quotes from the student to help illustrate the student's feelings and behavior.
 
-### Struggling Student - Through Form and Admin Profile
+### Struggling Student - Through Escalation Form and Admin Profile
 
-If a paying student is struggling with the curriculum, we want to get them the appropriate help as soon as possible. At this point, you may have already tried to explain a concept to them, and/or documented it on their admin profile. If not, check their admin profile and see if there are other comments. If it seems there is a pattern developing based on the notes in their admin profile (eg there are several other notes by other TCs / staff members about the student struggling with concepts), **please email or Slack the Technical Coach manager immediately** about the student so we can get them help from the appropriate Section Lead.
+If a paying student is struggling with the curriculum, we want to get them the appropriate help as soon as possible. At this point, you may have already tried to explain a concept to them, and/or documented it on their admin profile. If not, check their admin profile and see if there are other comments. If it seems there is a pattern developing based on the notes in their admin profile (e.g. there are several other notes by other TCs / staff members about the student struggling with concepts), please escalate the student via the escalation form. Once that student is escalated, we can make sure the student gets the appropriate support from their Section Lead or Cohort Lead.
 
-### Abuse of AAQ or Lack of Trying -
+### Abuse of AAQ or Lack of Trying - Through Escalation Form and Admin Profile
+AAQ exists to help students learn to debug effectively as they work their way through labs and lessons in the curriculum - it's why we're here! However, it's on students to debug independently as much as possible. While we can offer suggestions and strategies when students get stuck, we should also take note of when a particular student seems to be relying on us for answers rather than putting an appropriate amount of effort into their their lab work. Abuse of AAQ might look like any of the following:
+
+- Asking for answers directly, or asking to be given the solution
+- Repeatly demanding screenshares and being reluctant to share information over chat
+- Hanging out in AAQ for most of the day, or for seemingly an entire lab
+- Opening a new question within a few minutes of resolving the previous question
+- Being unwilling to troubleshoot, try things independently, or identify possible strategies for moving forward (e.g. a student frequently responds with "I don't know", or "what is wrong with this code") or something similar.
+
+A good general rule of thumb is to tell students to work independently for 20-30 minutes before opening a new question. However, if you find that students are overly reliant on AAQ or resistant to the teaching strategies we use, you should escalate that student via the escalation form so that their expectations of the program, and of AAQ, can be reset. It's also a good idea to leave a note on the student's admin profile so that other TCs know how to approach the student. 
 
 ### All other issues - Through Jira
 
