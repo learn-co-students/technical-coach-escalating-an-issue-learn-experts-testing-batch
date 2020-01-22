@@ -33,7 +33,7 @@ Here is an example:
 
 >This student started a question due to the IDE constantly reconnecting during the Sinatra Playlister lab. He spoke with [TC name] first, who submitted a ticket for him, then [second TC] who screen shared with him to get him going on his local environment. This resulted in some issues with the bundler gem.
 
->The student repeatedly said negative remarks as I tried to help him. We tried running his code in shotgun and got an error. I suggested a change to his code and then recommended to try it in shotgun again, to which he responded “woooo nothing's gonna change let's check shotgun...” Many of his responses had a similar tone.
+>The student repeatedly made negative remarks as I tried to help him. We tried running his code in shotgun and got an error. I suggested a change to his code and then recommended to try it in shotgun again, to which he responded “woooo nothing's gonna change let's check shotgun...” Many of his responses had a similar tone.
 
 >He brought up the course several times like “I just don’t know about this course... I spent hours on this, I don’t want to spend time fixing every single lab” - comments along those lines. Didn’t necessarily threaten to quit but is clearly unhappy with the course right now.
 
@@ -45,15 +45,15 @@ We see that there is a description of the student's overall demeanor and why he 
 
 If a paying student is struggling with the curriculum, we want to get them the appropriate help as soon as possible. At this point, you may have already tried to explain a concept to them, and/or documented it on their admin profile. If not, check their admin profile and see if there are other comments. If it seems there is a pattern developing based on the notes in their admin profile (e.g. there are several other notes by other TCs / staff members about the student struggling with concepts), please escalate the student via the escalation form. Once that student is escalated, we can make sure the student gets the appropriate support from their Section Lead or Cohort Lead.
 
-Here is an example:
+Here is an example of a reasonable escalation:
 
-> [Student] opened a question on the Rails Amusement Park lab and is approaching their portfolio project, but seems to still be struggling with routing in Rails, as well as with using pry to debug their controllers. The notes on their admin profile report similar conceptual issues, and the student seems to have had issues with routing in the Sinatra section as well. While on my screenshare with [student], they seemed to generally be unable to answer my questions about routing and route helpers  repeatedly responding with "I don't know" or "what should I do next". We looked at the rails routing documentation together, but I had to do a lot of handholding. I shared several resources with the student as well, but I think they're going to need more direct support before reading their portfolio project.
+> [Student] opened a question on the Rails Amusement Park lab and is approaching their portfolio project, but seems to still be struggling with routing in Rails, as well as with using pry to debug their controllers. The notes on their admin profile report similar conceptual issues, and the student seems to have had issues with routing in the Sinatra section as well. While on my screen share with [student], they seemed to generally be unable to answer my questions about routing and route helpers, and seemed to have a hard time parsing error messages in general. They repeatedly responded to me with "I don't know" or "what should I do next". We looked at the rails routing documentation together, but I had to do a lot of handholding. I shared several resources with the student as well, but I think they're going to need more direct support before starting their portfolio project. Otherwise, I'm worried that they're really going to struggle on their final project.
 
 ### Abuse of AAQ or Lack of Trying - Through Escalation Form and Admin Profile
 AAQ exists to help students learn to debug effectively as they work their way through labs and lessons in the curriculum - it's why we're here! However, it's on students to debug independently as much as possible. While we can offer suggestions and strategies when students get stuck, we should also take note of when a particular student seems to be relying on us for answers rather than putting an appropriate amount of effort into their their lab work. Abuse of AAQ might look like any of the following:
 
-- Asking for answers directly, or asking to be given the solution
-- Repeatly demanding screenshares and being reluctant to share information over chat
+- Asking for answers directly, or asking to be given the solution code
+- Repeatedly demanding screen shares and being reluctant to share information over chat
 - Hanging out in AAQ for most of the day, or for seemingly an entire lab
 - Opening a new question within a few minutes of resolving the previous question
 - Being unwilling to troubleshoot, try things independently, or identify possible strategies for moving forward (e.g. a student frequently responds with "I don't know", or "what is wrong with this code") or something similar.
@@ -62,7 +62,7 @@ A good general rule of thumb is to tell students to work independently for 20-30
 
 Here is an example of a reasonable escalation:
 
-> [Student] seems unwilling to troubleshoot her errors or put much effort in at all, instead pasting all of her code and errors at once and saying things like "how do i make it pass" or "how do I fix this". Sometimes she will resolve her question and open a new one immediately if she is not getting responses quickly enough. It seems that she is not making much of an effort, even though she is in the paid program. Additionally, she is not very communicative in screen shares. Most of my questions were met with silence. Even when we successfully completed a lab, Hoko was completely silent — no reaction whatsoever, not even a "thanks for your help."
+> [Student] seems unwilling to troubleshoot her errors or put much effort in at all, instead pasting all of her code and errors at once and saying things like "how do i make it pass" or "how do I fix this". Sometimes she will resolve her question and open a new one immediately if she is not getting responses quickly enough. It seems that she is not making much of an effort, even though she is in the paid program. Additionally, she is not very communicative in screen shares. Most of my questions were met with silence. Even when we successfully completed a lab, [student] was completely silent — no reaction whatsoever, not even a "thanks for your help."
 
 ### All other issues - Through Jira
 
