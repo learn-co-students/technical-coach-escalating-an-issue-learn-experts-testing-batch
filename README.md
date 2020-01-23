@@ -80,3 +80,6 @@ In other cases, technical issues need to be escalated to our development team. I
 | Learn Gem | e.g. User is getting non-test errors when running tests or submitting lessons |
 | Github |  e.g. Github account not connecting to Learn.co |
 | Blog | Student's Learn.co blog-related issues - can't save blog posts, issues switching blog type, etc.
+
+## Resources
+[Student Escalation Form](https://docs.google.com/forms/d/e/1FAIpQLSdIP65BStJfWBgG0dZO5dhQb3Yqs3TwN29xjk5GUOyyReI5QQ/viewform)
