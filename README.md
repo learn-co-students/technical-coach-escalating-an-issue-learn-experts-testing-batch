@@ -23,7 +23,7 @@ Before resolving the question, you should also tell students that they can conta
 
 Students get a little frustrated all the time - learning to do something new is challenging! If a student is very frustrated or disheartened, or is otherwise not interacting with TCs or other students in a healthy way, that student needs to be escalated.  
 
-We use a Google form to escalate students to members of the full time team. You can find that form [here](https://docs.google.com/forms/u/1/d/e/1FAIpQLSdIP65BStJfWBgG0dZO5dhQb3Yqs3TwN29xjk5GUOyyReI5QQ/viewform). For extreme or urgent cases, you should also send a DM to Erika. Paste the message that concerned you and a link to the question so we can easily get in touch and review. It's also a good idea to leave a note on the student's admin profile - writing notes can help document a pattern of behavior and keep TCs and other staff in the loop.
+We use a Google form to escalate students to members of the full-time team. You can find that form [here](https://docs.google.com/forms/u/1/d/e/1FAIpQLSdIP65BStJfWBgG0dZO5dhQb3Yqs3TwN29xjk5GUOyyReI5QQ/viewform). For extreme or urgent cases, you should also send a DM to Erika. Paste the message that concerned you and a link to the question so we can easily get in touch and review. It's also a good idea to leave a note on the student's admin profile - writing notes can help document a pattern of behavior and keep TCs and other staff in the loop.
 
 If in doubt, err on the side of escalating a student, rather than potentially letting the issue continue, unaddressed. If necessary, we'll refine the instructions, but we'd rather get too many false positives than fail to help a student who's having a hard time.
 
