@@ -6,7 +6,7 @@ Sometimes as a Technical Coach, you will encounter questions that are beyond you
 
 ## What kinds of issues should be reported?
 
-### Admissions - Through the 'Assign to Enrollments' Button
+### Non-lab Questions - refer the student to the correct department
 
 - Questions about the course and admissions
   - How long does the course take?
