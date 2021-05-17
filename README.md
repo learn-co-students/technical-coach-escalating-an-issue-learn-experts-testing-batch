@@ -13,21 +13,20 @@ Sometimes as a Technical Coach, you will encounter questions that are beyond you
   - What courses do you offer?
   - Do you offer scholarships?
 
-Occasionally someone asks non-technical questions such as "How long does this course take to complete?", "Do you offer scholarships?", "Can you explain the job guarantee to me?", etc. If you feel like you know the answer, please **do not try and answer these questions**. Simply let the student know that this is a great question for our admissions team and that you're going to close this chat question and forward the question to them. Referring the questions to admissions will automatically resolve the question, so **it is imperative that you let the student know that the referral will resolve their question**.
+Occasionally someone asks non-technical questions such as "How long does this course take to complete?", "Do you offer scholarships?", "Can you explain the job guarantee to me?", etc. If you feel like you know the answer, please **do not try and answer these questions**. Please refer the student to our admissions or student services department. 
 
-Before resolving the question, you should also tell students that they can contact admissions directly at `admissions@flatironschool.com`. Students may not be contacted by admissions immediately, so it is a good idea to give them a course of action to follow up - otherwise, they're likely to come to AAQ again! Once you get confirmation from the student that it is okay to refer them to admissions and resolve their question, hit the `Assign to Enrollments` button.  
+- To contact admissions directly: `admissions@flatironschool.com`. 
+- To contact student services: `studentservices@flatironschool.com`
 
-![admissions](https://github.com/learn-co-curriculum/technical-coach-escalating-an-issue/blob/master/assign_to_enrollments.png?raw=true)
-
-### Personal/Behavioral Escalation - Through Escalation Form, Slack, and Admin Profile
+### Personal/Behavioral Escalation - Through Escalation Form and Slack
 
 Students get a little frustrated all the time - learning to do something new is challenging! If a student is very frustrated or disheartened, or is otherwise not interacting with TCs or other students in a healthy way, that student needs to be escalated.  
 
-We use a Google form to escalate students to members of the full-time team. You can find that form [here](https://docs.google.com/forms/u/1/d/e/1FAIpQLSdIP65BStJfWBgG0dZO5dhQb3Yqs3TwN29xjk5GUOyyReI5QQ/viewform). For extreme or urgent cases, you should also send a DM to Erika. Paste the message that concerned you and a link to the question so we can easily get in touch and review. It's also a good idea to leave a note on the student's admin profile - writing notes can help document a pattern of behavior and keep TCs and other staff in the loop.
+We use a Google form to escalate students to members of the full-time team. You can find that form [here](https://docs.google.com/forms/u/1/d/e/1FAIpQLSdIP65BStJfWBgG0dZO5dhQb3Yqs3TwN29xjk5GUOyyReI5QQ/viewform). For extreme or urgent cases, you should also send a DM to your Faculty Manager. Paste the message that concerned you and a link to the question so we can easily get in touch and review. 
 
 If in doubt, err on the side of escalating a student, rather than potentially letting the issue continue, unaddressed. If necessary, we'll refine the instructions, but we'd rather get too many false positives than fail to help a student who's having a hard time.
 
-When using the escalation form and writing notes on a student's admin profile, it is important that you are objective, detailed, and specific in your explanation of what occurred. A nice general rule of thumb is to describe what happened, give specific details (quote the student if at all possible!), and elaborate on why the interaction concerned you.
+When using the escalation form, it is important that you are objective, detailed, and specific in your explanation of what occurred. A nice general rule of thumb is to describe what happened, give specific details (quote the student if at all possible!), and elaborate on why the interaction concerned you.
 
 Here is an example:
 
@@ -41,7 +40,7 @@ Here is an example:
 
 We see that there is a description of the student's overall demeanor and why he might be frustrated, the steps that were taken to address the issue, and specific details and quotes from the student to help illustrate the student's feelings and behavior, as well as why the TC was concerned.
 
-### Struggling Student / Major Conceptual Issues - Through Escalation Form and Admin Profile
+### Struggling Student / Major Conceptual Issues - Through Escalation Form
 
 If a paying student is struggling with the curriculum, we want to get them the appropriate help as soon as possible. At this point, you may have already tried to explain a concept to them, and/or documented it on their admin profile. If not, check their admin profile and see if there are other comments. If it seems there is a pattern developing based on the notes in their admin profile (e.g. there are several other notes by other TCs / staff members about the student struggling with concepts), please escalate the student via the escalation form. Once that student is escalated, we can make sure the student gets the appropriate support from their Section Lead or Cohort Lead.
 
@@ -49,16 +48,16 @@ Here is an example of a reasonable escalation:
 
 > [Student] opened a question on the Rails Amusement Park lab and is approaching their portfolio project, but seems to still be struggling with routing in Rails, as well as with using pry to debug their controllers. The notes on their admin profile report similar conceptual issues, and the student seems to have had issues with routing in the Sinatra section as well. While on my screen share with [student], they seemed to generally be unable to answer my questions about routing and route helpers, and seemed to have a hard time parsing error messages in general. They repeatedly responded to me with "I don't know" or "what should I do next". We looked at the Rails routing documentation together, but I had to do a lot of handholding. I shared several resources with the student as well, but I think they're going to need more direct support before starting their portfolio project. Otherwise, I'm worried that they're really going to struggle on their final project.
 
-### Abuse of AAQ or Lack of Trying - Through Escalation Form and Admin Profile
-AAQ exists to help students learn to debug effectively as they work their way through labs and lessons in the curriculum - it's why we're here! However, it's on students to debug independently as much as possible. While we can offer suggestions and strategies when students get stuck, we should also take note of when a particular student seems to be relying on us for answers rather than putting an appropriate amount of effort into their their lab work. Abuse of AAQ might look like any of the following:
+### Abuse of Pair with a TC or Lack of Trying - Through Escalation Form 
+Pair with a Coach exists to help students learn to debug effectively as they work their way through labs and lessons in the curriculum - it's why we're here! However, it's on students to debug independently as much as possible. While we can offer suggestions and strategies when students get stuck, we should also take note of when a particular student seems to be relying on us for answers rather than putting an appropriate amount of effort into their their lab work. Abuse of Pair with A Coach might look like any of the following:
 
 - Asking for answers directly, or asking to be given the solution code
 - Repeatedly demanding screen shares and being reluctant to share information over chat
-- Hanging out in AAQ for most of the day, or for seemingly an entire lab
+- Hanging out in PWATC for most of the day, or for seemingly an entire lab
 - Opening a new question within a few minutes of resolving the previous question
 - Being unwilling to troubleshoot, try things independently, or identify possible strategies for moving forward (e.g. a student frequently responds with "I don't know", or "what is wrong with this code") or something similar.
 
-A good general rule of thumb is to tell students to work independently for 20-30 minutes before opening a new question. However, if you find that a student is overly reliant on AAQ or resistant to the teaching strategies we use, you should escalate that student via the escalation form so that their expectations of the program, and of AAQ, can be reset. It's also a good idea to leave a note on the student's admin profile so that other TCs know how to approach the student.
+A good general rule of thumb is to tell students to work independently for 15-20 minutes before opening a new question. However, if you find that a student is overly reliant on PWATC or resistant to the teaching strategies we use, you should escalate that student via the escalation form so that their expectations of the program, and of PWATC, can be reset. 
 
 Here is an example of a reasonable escalation:
 
